@@ -1,0 +1,91 @@
+
+Loai hang hoa: Dien may
+Ma hang: DM03
+Ten hang: Tivi
+So luong ton kho: 20
+Don gia: 7.000.000
+Cong suat: 220 W
+Thoi gian bao hanh: 36 thang
+
+Loai hang hoa: Dien may
+Ma hang: DM05
+Ten hang: may lanh
+So luong ton kho: 54
+Don gia: 6.000.000
+Cong suat: 220 W
+Thoi gian bao hanh: 18 thang
+
+Loai hang hoa: Dien may
+Ma hang: DM02
+Ten hang: Tu lanh
+So luong ton kho: 50
+Don gia: 5.500.000
+Cong suat: 220 W
+Thoi gian bao hanh: 12 thang
+
+Loai hang hoa: Dien may
+Ma hang: DM04
+Ten hang: May loc nuoc
+So luong ton kho: 60
+Don gia: 5.000.000
+Cong suat: 180 W
+Thoi gian bao hanh: 24 thang
+
+Loai hang hoa: Dien may
+Ma hang: DM01
+Ten hang: Quat may
+So luong ton kho: 100
+Don gia: 280.000
+Cong suat: 180 W
+Thoi gian bao hanh: 24 thang
+
+Loai hang hoa: Thuc pham
+Ma hang: TP02
+Ten hang: Thit heo
+So luong ton kho: 100
+Don gia: 90.000
+Ngay san xuat: 14/04/2022
+Ngay het han: 16/04/2022
+Nha cung cap: Nong trai
+
+Loai hang hoa: Sanh su
+Ma hang: SS03
+Ten hang: Binh hoa
+So luong ton kho: 30
+Don gia: 80.000
+Ngay nhap kho: 18/03/2022
+Nha san xuat: Bat Trang
+
+Loai hang hoa: Sanh su
+Ma hang: SS02
+Ten hang: Dia
+So luong ton kho: 120
+Don gia: 60.000
+Ngay nhap kho: 14/03/2022
+Nha san xuat: Bat Trang
+
+Loai hang hoa: Sanh su
+Ma hang: SS01
+Ten hang: To su
+So luong ton kho: 201
+Don gia: 50.000
+Ngay nhap kho: 14/04/2022
+Nha san xuat: Bat Trang
+
+Loai hang hoa: Thuc pham
+Ma hang: TP03
+Ten hang: Xuc xich
+So luong ton kho: 300
+Don gia: 45.000
+Ngay san xuat: 22/02/2022
+Ngay het han: 22/04/2022
+Nha cung cap: CP
+
+Loai hang hoa: Thuc pham
+Ma hang: TP01
+Ten hang: Banh trang
+So luong ton kho: 300
+Don gia: 5.000
+Ngay san xuat: 14/02/2022
+Ngay het han: 14/05/2022
+Nha cung cap: btt
